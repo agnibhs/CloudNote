@@ -1,8 +1,9 @@
 # Cloud Note
-# ==========
+
 
 ## About Cloud Notes
-## -------------------
+**1. It is a _Java_ based _Web Application_. Which performs _CURD_ operation on _Database_.
+**2. With the help of this application one can _ADD Notes_, _UPDATE Notes_, _READ  Notes_, _DELETE Notes_ from the Database. Through internet he/she can access his/her notes whenever he/she want.
 
 
 ## Index Page :
