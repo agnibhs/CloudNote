@@ -17,5 +17,5 @@
 ![3  NotesAdded](https://user-images.githubusercontent.com/72640465/119958689-e4e87e00-bfc0-11eb-9291-c951467a6eaf.jpg)
 ## Show Notes Page :
 ![4  ShowNotes](https://user-images.githubusercontent.com/72640465/119958693-e5811480-bfc0-11eb-9f87-db12981fc904.jpg)
-## Uodate Notes Page :
+## Update Notes Page :
 ![5  UpdateNotes](https://user-images.githubusercontent.com/72640465/119958677-e2862400-bfc0-11eb-9d2e-0fe0f0e7108b.jpg)
